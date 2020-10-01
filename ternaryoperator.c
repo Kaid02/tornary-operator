@@ -7,6 +7,7 @@ Program : Write a program to take two input from user and print largest
 Date : 2016-10-25
 */
 #include<stdio.h>
+#include<conio.h>
 	int main(){
 		int a,b,largest,smallest;
 		
